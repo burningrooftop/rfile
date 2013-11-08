@@ -1,7 +1,7 @@
 rfile
 =====
 
-File manage based on FileDrawers (filedrawers.org)
+File manager based on FileDrawers (filedrawers.org)
 
 Requirements:
 
